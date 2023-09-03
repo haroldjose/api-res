@@ -43,3 +43,11 @@ http://localhost:3002/usuarios/19
 DELETE eliminar usuario por id
 http://localhost:3002/usuarios/3(id)
 ````
+````
+{
+    "author": "Harold Joseph Sanchez Nogales",
+    "correo": "haroldjosano23@gmail.com",
+    "dni": "7898422",
+}
+````
+
